@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library C:\Users\bjasperson\source\repos\SimpleCPPImage\Debug\SimpleCPPImage\SimpleCPPImage.lib and object C:\Users\bjasperson\source\repos\SimpleCPPImage\Debug\SimpleCPPImage\SimpleCPPImage.exp
+  SimpleCPPImage.vcxproj -> C:\Users\bjasperson\source\repos\SimpleCPPImage\Debug\SimpleCPPImage\SimpleCPPImage.exe
